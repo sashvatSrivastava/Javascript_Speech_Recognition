@@ -1,0 +1,12 @@
+body{
+  background-color: blue;
+  align-items: center;
+  align-content: center;
+  min-height:100vh;
+  flex-grow: hidden;
+}
+
+.button {
+
+
+}
